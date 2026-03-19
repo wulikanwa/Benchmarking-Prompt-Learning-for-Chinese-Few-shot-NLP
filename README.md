@@ -66,8 +66,6 @@ chinese_fewshot_benchmark_github/
 ├── data/
 │   ├── .gitkeep
 │   └── README.md
-├── outputs/
-│   └── .gitkeep
 ├── scripts/
 │   ├── download_datasets.py
 │   ├── prepare_fewshot.py
