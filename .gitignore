@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.venv/
+venv/
+
+# Hugging Face / caches
+.cache/
+.huggingface/
+
+# Data and outputs
+outputs/
+!outputs/.gitkeep
+data/
+!data/.gitkeep
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
